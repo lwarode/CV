@@ -171,6 +171,7 @@ r_skills <- tribble(
 [ParlGov Dashboard](https://lukas-warode.shinyapps.io/ParlGov_Dashboard/): `R Shiny` Dashboard using [*ParlGov*](http://www.parlgov.org/) database
 
 - · Comprehensive data visualizations and tables on parties, elections and cabinets
+- · [Source Code](https://github.com/lwarode/ParlGov_Dashboard)
 
 ## *Prospective*
 
