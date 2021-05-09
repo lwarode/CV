@@ -1,0 +1,173 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: cv_template.tex
+    # pandoc_args: [
+    #   "-V", "classoption=twocolumn"
+    # ]
+geometry: margin=1in
+# classoption: 
+# - twocolumn
+
+title: "CV"
+author: Lukas Warode
+
+jobtitle: "B.A. Political Science"
+address: "Semkenweg 36 · 28357 Bremen · Germany"
+fontawesome: yes
+email: lukas.warode@gmx.de
+# linkedin: https://www.linkedin.com/in/lukas-warode-64a84a1a3/
+github: lwarode
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+# phone: "+353 1 408 4800"
+web: lwarode.github.io
+updated: no
+
+# keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+*University of Bremen*, B.A. Political Science (Grade: 1.37) \hfill 2017 -- 2021
+
+- Strongly above-average grades (part of the best 2% of the cohort)
+
+- Thesis: "The 2014 and 2019 European Elections in the Context of Second-Order
+Elections" (Grade: 1.0)
+
+- **Focus Areas**
+
+  - · (Applied) Statistics and Quantitative Methods
+  - · Comparative Politics
+  - · Election and Party Research
+  - · Political Economy
+
+*Queen's University Belfast*, Exchange Semester \hfill 2019
+
+\vspace{15pt}
+\hrule
+\vspace{5pt}
+<!-- \rule{\textwidth}{0.75pt} -->
+
+# Work Experience
+
+## **Academia**
+
+Tutor in Statistics, *University of Bremen · Faculty of Social Sciences* \hfill 11/2020 -- 03/2021
+
+Research Assistant, *University of Bremen · SOCIUM* \hfill 03/2018 -- 12/2020
+
+- · Project [*Careers in Comparison*](https://parliamentarycareersincomparison.org/)
+  - Prof. Dr. Philip Manow & Dr. Valentin Schröder
+
+- · Project [*ParlGov*](http://www.parlgov.org/)
+  - Dr. Holger Döring & Prof. Dr. Philip Manow
+  
+- · Preparing lecture "Introduction to Comparative Politics"
+
+- · Assisting a research paper
+  - Dr. Alexander Gattig & Prof. Dr. Philip Manow
+
+## **Private Sector**
+
+Data Journalism Intern, *Süddeutsche Zeitung* \hfill 06/2021 -- 07/2021
+
+Data Science Intern, *eoda GmbH* \hfill 01/2021 -- 03/2021
+
+Graphic Design Intern, *liauw konzept und design* \hfill 10/2016 -- 01/2017
+
+\vspace{15pt}
+\hrule
+\vspace{5pt}
+<!-- \rule{\textwidth}{0.75pt} -->
+
+# Volunteering
+
+CorrelAid (*Data Science for Good*) \hfill 06/2019 -- *today*
+
+- · Organizing the [*Local Chapter Bremen*](https://correlaid.org/correlaid-x/bremen/)
+
+- · Participating in voluntary Data Science projects
+
+- · Presenting (political) Data Science projects at "Data Meetups"
+
+Member of the appointment committee, *Professorship for Quantitative Methods*, 
+\break 
+*University of Bremen · Faculty of Social Sciences* \hfill 10/2020
+
+Voluntary activity as an election worker, *State of Bremen* \hfill 05/2019
+
+Voluntary involvement in a community as a group leader, *St. Raphael Bremen* \hfill 2015 -- 2017
+
+\vspace{15pt}
+\hrule
+\vspace{5pt}
+<!-- \rule{\textwidth}{0.75pt} -->
+
+# Skills
+
+## **Language**
+
+German (mother tongue)
+
+English (fluent | TOEFL iBT · Score: 110/120 · C1 -- C2)
+
+French (basics)
+
+## **Statistical Packages**
+
+R / *tidyverse* (advanced to semi-professional)
+
+- · Data manipulation
+- · Data visualization
+- · Statistical methods
+- · Interactive tools (`R Markdown`, `Shiny`)
+- · Project and package development: [`partycoloR`](https://github.com/lwarode/partycoloR)
+
+Stata (advanced)
+
+Mplus (basics)
+
+## **Computer Knowledge**
+
+Python (basics)
+
+MS Office -- Word, Excel, PowerPoint (basics -- advanced)
+
+Adobe Creative Cloud - InDesign, Photoshop, Illustrator, Dreamweaver, Lightroom (basics -- advanced)
+
+```{r mapping skills, fig.height = 3, fig.width = 9, echo=FALSE, include=FALSE}
+library(ggplot2)
+library(tibble)
+library(dplyr)
+
+r_skills <- tribble(
+  ~ Skill, ~ Level,
+  "Data Visualisation", 4,
+  "Data Manipulation", 4,
+  "Statistical Methods", 3,
+  "R Markdown", 3,
+  "Advanced Programming", 2
+) %>%
+  tidyr::pivot_wider(names_from = "Skill", values_from = Level)
+```
+
+\vspace{15pt}
+\hrule
+\vspace{5pt}
+
+# Publications
+
+## *Prospective*
+
+Co-authorship with Prof. Dr. Philip Manow on results from project *Careers in Comparison*
+
+
