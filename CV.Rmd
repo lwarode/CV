@@ -19,7 +19,7 @@ fontawesome: yes
 email: lukas.warode@gmx.de
 # linkedin: https://www.linkedin.com/in/lukas-warode-64a84a1a3/
 github: lwarode
-twitter: el_weeh
+twitter: lukas_warode
 #osf: "Enter 5 digit osf string here"
 # phone: "+353 1 408 4800"
 web: lwarode.github.io
