@@ -97,7 +97,7 @@ CorrelAid (*Data Science for Good*) \hfill 06/2019 -- *today*
 
 - · Participating in voluntary Data Science projects
 
-- · Presenting (political) Data Science projects at "Data Meetups"
+- · Presenting (Political) Data Science projects at "Data Meetups"
 
 Member of the appointment committee, *Professorship for Quantitative Methods*, 
 \break 
