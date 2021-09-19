@@ -12,16 +12,16 @@ geometry: margin=1in
 
 title: "CV"
 author: Lukas Warode
-
 jobtitle: "B.A. Political Science | M.Sc. Data Science for Public Policy Candidate"
-address: "Semkenweg 36 · 28357 Bremen · Germany"
+#address: "Invalidenstraße 135 · 10115 Berlin · Germany"
 fontawesome: yes
 email: lukas.warode@gmx.de
-# linkedin: https://www.linkedin.com/in/lukas-warode-64a84a1a3/
+linkedin: lukas-warode-64a84a1a3
+linkedin_name: Lukas Warode
 github: lwarode
 twitter: lukas_warode
 #osf: "Enter 5 digit osf string here"
-# phone: "+353 1 408 4800"
+#phone: "+353 1 408 4800"
 web: lwarode.github.io
 updated: no
 
