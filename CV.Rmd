@@ -36,7 +36,13 @@ urlcolor: blue
 
 # Education
 
-*Hertie School*, M.Sc. Data Science for Public Policy \hfill 2021 -- 2023
+*Hertie School*, M.Sc. Data Science for Public Policy (Current Grade: 93.25/100) \hfill 2021 -- 2023
+
+- **Covered Areas as yet**
+
+  - · Data Science with `R` and `Python`
+  - · Economics
+  - · Public Policy and the Policy Process
 
 *University of Bremen*, B.A. Political Science (Grade: 1.37) \hfill 2017 -- 2021
 
