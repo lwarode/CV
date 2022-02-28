@@ -192,6 +192,16 @@ r_skills <- tribble(
 - · Comprehensive data visualizations and tables on parties, elections and cabinets
 - · [Source Code](https://github.com/lwarode/ParlGov_Dashboard)
 
+[`legislatoR+`](https://687qak-gamesluxx.shinyapps.io/legislatoRplus/): `R Shiny` App using [Comparative Legislators Database](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/comparative-legislators-database/D28BB58A8B2C08C8593DB741F42C18B2)
+
+- · Master's class final course project, geographical and distributional visualizations of German MPs
+- · [Source Code and Project Description](https://github.com/benediktstroebl/legislatoRplus)
+
+[Whisky Dashboard](https://lukas-warode.shinyapps.io/whisky_dashboard/): `R Shiny` App using taste data on Scottish Single Malt Whiskies
+
+- · Categorical and geographical visualizations
+- · [Source Code and further Analyses](https://github.com/lwarode/whisky_data)
+
 ### **Articles**
 
 [Schnelltests liefern mangelhafte Ergebnisse](https://projekte.sueddeutsche.de/artikel/politik/schnelltests-mangelhaft-e425074/?reduced=true), *Süddeutsche Zeitung*, co-author: Markus Hametner
