@@ -36,13 +36,16 @@ urlcolor: blue
 
 # Education
 
-*Hertie School*, M.Sc. Data Science for Public Policy (Current Grade: 93.25/100) \hfill 2021 -- 2023
+*Hertie School*, M.Sc. Data Science for Public Policy \hfill 2021 -- 2023
 
 - **Covered Areas as yet**
 
   - · Data Science with `R` and `Python`
+  - · Machine Learning and its Mathematical Foundations
   - · Economics
   - · Public Policy and the Policy Process
+  - · International Law
+  
 
 *University of Bremen*, B.A. Political Science (Grade: 1.37) \hfill 2017 -- 2021
 
@@ -69,7 +72,7 @@ Elections" (Grade: 1.0)
 
 ## **Academia**
 
-Research Assistant, *WZB Berlin Social Science Center* \hfill 10/2021 -- *today*
+Research Assistant, *WZB Berlin Social Science Center* \hfill 10/2021 -- 05/2022
 
 - · Project [*Transformations of Democracy*](https://www.wzb.eu/en/research/dynamics-of-political-systems/transformations-of-democracy)
 
@@ -94,6 +97,8 @@ Research Assistant, *University of Bremen · SOCIUM* \hfill 03/2018 -- 12/2020
   - Dr. Alexander Gattig & Prof. Dr. Philip Manow
 
 ## **Private Sector**
+
+Data Science & Research Intern, [*Project Open Discourse*](https://opendiscourse.de) -- [*Limebit*](https://limebit.de) \hfill 07/2022 -- 08/2022
 
 Data Journalism Intern, *Süddeutsche Zeitung* \hfill 06/2021 -- 07/2021
 
@@ -147,7 +152,7 @@ R / *tidyverse* (advanced to semi-professional)
 - · Data visualization
 - · Statistical methods
 - · Interactive tools (`R Markdown`, `Shiny`)
-- · Project and package development: [`partycoloR`](https://github.com/lwarode/partycoloR)
+- · Project and package development
 
 Stata (advanced)
 
@@ -155,7 +160,7 @@ Mplus (basics)
 
 ## **Computer Knowledge**
 
-Python (basics)
+Python (advanced)
 
 MS Office -- Word, Excel, PowerPoint (basics -- advanced)
 
@@ -210,6 +215,6 @@ r_skills <- tribble(
 
 ## *Prospective*
 
-Co-authorship with Prof. Dr. Philip Manow on results from project *Careers in Comparison*
+Publication of *Open Discourse* Data Paper in peer-reviewed journal
 
 
