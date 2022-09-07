@@ -146,7 +146,7 @@ French (basics)
 
 ## **Statistical Packages**
 
-R / *tidyverse* (advanced to semi-professional)
+`R` / *tidyverse* (advanced to semi-professional)
 
 - · Data manipulation
 - · Data visualization
@@ -160,7 +160,13 @@ Mplus (basics)
 
 ## **Computer Knowledge**
 
-Python (advanced)
+`Python` (basics to advanced)
+
+- · Data manipulation
+- · Data visualization
+- · Machine Learning methods
+
+`SQL` (basics)
 
 MS Office -- Word, Excel, PowerPoint (basics -- advanced)
 
