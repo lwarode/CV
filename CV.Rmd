@@ -200,6 +200,11 @@ r_skills <- tribble(
 
 ### **Data Science Projects**
 
+[`opendiscouRse`](https://github.com/open-discourse/opendiscouRse): `R Package` using [*Open Discourse*](https://opendiscourse.de) database
+
+- · Package containing functions to obtain descriptive statistics and analyses for external and internal usage
+- · Current state: In development
+
 [ParlGov Dashboard](https://lukas-warode.shinyapps.io/ParlGov_Dashboard/): `R Shiny` Dashboard using [*ParlGov*](http://www.parlgov.org/) database
 
 - · Comprehensive data visualizations and tables on parties, elections and cabinets
