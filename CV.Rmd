@@ -41,10 +41,11 @@ urlcolor: blue
 - **Covered Areas as yet**
 
   - · Data Science with `R` and `Python`
-  - · Machine Learning and its Mathematical Foundations
+  - · Machine Learning, Deep Learning and its Mathematical Foundations
+  - · NLP and its Application in Social Science Research
+  - · Causal Inference
   - · Economics
-  - · Public Policy and the Policy Process
-  - · International Law
+  - · Public Policy, the Policy Process and its Legal Basis
   
 
 *University of Bremen*, B.A. Political Science (Grade: 1.37) \hfill 2017 -- 2021
