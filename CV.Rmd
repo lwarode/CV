@@ -122,7 +122,9 @@ CorrelAid (*Data Science for Good*) \hfill 06/2019 -- *today*
 
 - · Organizing the [*Local Chapter Bremen*](https://correlaid.org/correlaid-x/bremen/)
 
-- · Participating in voluntary Data Science projects
+- · Participating in voluntary Data Science project with [*Mehr Demokratie e.V.*](https://www.mehr-demokratie.de)
+
+- · Participating in Mentoring Program as Mentor
 
 - · Presenting (Political) Data Science projects at "Data Meetups"
 
