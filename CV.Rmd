@@ -114,7 +114,9 @@ Graphic Design Intern, *liauw konzept und design* \hfill 10/2016 -- 01/2017
 \vspace{5pt}
 <!-- \rule{\textwidth}{0.75pt} -->
 
-# Volunteering
+# Volunteering and Memberships
+
+Participation in Bayesian Inference Reading Group led by Dr. Will Lowe, *Hertie School* \hfill 01/2023 -- *today*
 
 Student Representative, *Hertie School · Master of Data Sciene for Public Policy* \hfill 09/2022 -- *today*
 
