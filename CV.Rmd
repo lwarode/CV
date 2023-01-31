@@ -11,7 +11,7 @@ geometry: margin=1in
 # - twocolumn
 
 title: "CV"
-author: Lukas Warode
+author: "Lukas Warode"
 jobtitle: "B.A. Political Science | M.Sc. Data Science for Public Policy Candidate"
 #address: "Invalidenstraße 135 · 10115 Berlin · Germany"
 fontawesome: yes
@@ -27,8 +27,8 @@ updated: no
 
 # keywords: R Markdown, academic CV, template
 
-fontfamily: mathpazo
-fontfamilyoptions: sc, osf
+fontfamily: ebgaramond
+# fontfamilyoptions: sc, osf
 fontsize: 10pt
 linkcolor: blue
 urlcolor: blue
@@ -227,14 +227,15 @@ r_skills <- tribble(
 - · Categorical and geographical visualizations
 - · [Source Code and further Analyses](https://github.com/lwarode/whisky_data)
 
-### **Articles**
+### **Academic Articles**
+
+Richter, F., Koch, P., Franke, O., Kraus, J., Warode, L., & Heine, S. (2023). *Open Discourse: Towards the first fully Comprehensive and Annotated Corpus of the Parliamentary Protocols of the German Bundestag*. SocArXiv. https://doi.org/10.31235/osf.io/dx87u
+
+### **Non-Academic Articles**
 
 [Schnelltests liefern mangelhafte Ergebnisse](https://projekte.sueddeutsche.de/artikel/politik/schnelltests-mangelhaft-e425074/?reduced=true), *Süddeutsche Zeitung*, co-author: Markus Hametner
 
 [Warum die Impfkampagne stockt](https://www.sueddeutsche.de/wissen/impfkampagne-impftempo-astra-zeneca-biontech-corona-1.5345276?reduced=true), *Süddeutsche Zeitung*, co-authors: Simon Groß, Berit Kruse and Sören Müller-Hansen
 
-## *Prospective*
-
-Publication of *Open Discourse* Data Paper in peer-reviewed journal
 
 
