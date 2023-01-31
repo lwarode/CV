@@ -29,7 +29,7 @@ updated: no
 
 fontfamily: ebgaramond
 # fontfamilyoptions: sc, osf
-fontsize: 10pt
+fontsize: 11pt
 linkcolor: blue
 urlcolor: blue
 ---
