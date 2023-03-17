@@ -169,13 +169,15 @@ Mplus (basics)
 
 ## **Computer Knowledge**
 
-`Python` (basics to advanced)
+`Python` (basics -- advanced)
 
 - · Data manipulation
 - · Data visualization
 - · Machine Learning methods
 
 `SQL` (basics)
+
+\LaTeX (basics)
 
 MS Office -- Word, Excel, PowerPoint (basics -- advanced)
 
