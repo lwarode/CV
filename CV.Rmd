@@ -12,7 +12,7 @@ geometry: margin=1in
 
 title: "CV"
 author: "Lukas Warode"
-jobtitle: "B.A. Political Science | M.Sc. Data Science for Public Policy Candidate"
+jobtitle: "B.A. Political Science | M.Sc. Data Science for Public Policy"
 #address: "Invalidenstraße 135 · 10115 Berlin · Germany"
 fontawesome: yes
 email: lukas.warode@gmx.de
@@ -36,9 +36,11 @@ urlcolor: blue
 
 # Education
 
-*Hertie School*, M.Sc. Data Science for Public Policy (Current Grade: 90/100) \hfill 2021 -- 2023
+*Hertie School*, M.Sc. Data Science for Public Policy (Grade: 1.4) \hfill 2021 -- 2023
 
-- **Covered Areas as yet**
+- Thesis: "Scaling Political Actors across Parliamentary Speeches and Tweets: Evidence from the 19th German Legislative Period"
+
+- **Covered Areas**
 
   - · Data Science with `R` and `Python`
   - · Machine Learning, Deep Learning and its Mathematical Foundations
@@ -46,14 +48,13 @@ urlcolor: blue
   - · Causal Inference
   - · Economics
   - · Public Policy, the Policy Process and its Legal Basis
-  
 
-*University of Bremen*, B.A. Political Science (Grade: 1.37) \hfill 2017 -- 2021
+*University of Bremen*, B.A. Political Science (Grade: 1.3) \hfill 2017 -- 2021
 
 - Strongly above-average grades (part of the best 2% of the cohort)
 
 - Thesis: "The 2014 and 2019 European Elections in the Context of Second-Order
-Elections" (Grade: 1.0)
+Elections"
 
 - **Focus Areas**
 
@@ -99,9 +100,9 @@ Research Assistant, *University of Bremen · SOCIUM* \hfill 03/2018 -- 12/2020
 
 ## **Private Sector**
 
-Data Research Working Student, *POLITICO Europe* \hfill 10/2022 -- today
+Data Research Working Student, *POLITICO Europe* \hfill 10/2022 -- 07/2023
 
-Data Science & Research Intern, Project [*Open Discourse*](https://opendiscourse.de) -- Limebit \hfill 07/2022 -- 08/2022
+Data Science & Research Intern, Project [*Open Discourse*](https://opendiscourse.de) -- *Limebit* \hfill 07/2022 -- 08/2022
 
 Data Journalism Intern, *Süddeutsche Zeitung* \hfill 06/2021 -- 07/2021
 
