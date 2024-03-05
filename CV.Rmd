@@ -106,11 +106,7 @@ Research Assistant, *University of Bremen · SOCIUM* \hfill 03/2018 -- 12/2020
 
 ## **Private Sector**
 
-<<<<<<< HEAD
 Data Researcher, *POLITICO Europe* \hfill 07/2023 -- *today*
-=======
-Data Researcher, *POLITICO Europe* \hfill 10/2022 -- *today*
->>>>>>> b7d3e98fe826b95963c4572e0e1696be9914dfb2
 
 Data Research Working Student, *POLITICO Europe* \hfill 10/2022 -- 07/2023
 
