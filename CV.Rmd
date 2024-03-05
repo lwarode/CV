@@ -12,7 +12,7 @@ geometry: margin=1in
 
 title: "CV"
 author: "Lukas Warode"
-jobtitle: "B.A. Political Science | M.Sc. Data Science for Public Policy"
+jobtitle: "Political Science PhD Candidate & Data Researcher | M.Sc. Data Science for Public Policy"
 #address: "Invalidenstraße 135 · 10115 Berlin · Germany"
 fontawesome: yes
 email: lukas.warode@gmx.de
@@ -35,6 +35,8 @@ urlcolor: blue
 ---
 
 # Education
+
+*University of Mannheim*, Political Science Track in Doctoral programme in Social Sciences at the Center for Doctoral Studies in Social and Behavioral Sciences (CDSS) \hfill 2023 -- 2026
 
 *Hertie School*, M.Sc. Data Science for Public Policy (Grade: 1.4) \hfill 2021 -- 2023
 
@@ -74,6 +76,10 @@ Elections"
 
 ## **Academia**
 
+Research Associate, *University of Mannheim · MZES* \hfill 08/2023 --  *today*
+
+- · Participating in Or Tuttnauer's DFG project [*Dynamics of Government-Opposition Parliamentary Relations and Public Attitudes*](https://ortuttnauer.com/research/)
+
 Research Assistant, *WZB Berlin Social Science Center* \hfill 10/2021 -- 05/2022
 
 - · Project [*Transformations of Democracy*](https://www.wzb.eu/en/research/dynamics-of-political-systems/transformations-of-democracy)
@@ -100,6 +106,8 @@ Research Assistant, *University of Bremen · SOCIUM* \hfill 03/2018 -- 12/2020
 
 ## **Private Sector**
 
+Data Researcher, *POLITICO Europe* \hfill 10/2022 -- *today*
+
 Data Research Working Student, *POLITICO Europe* \hfill 10/2022 -- 07/2023
 
 Data Science & Research Intern, Project [*Open Discourse*](https://opendiscourse.de) -- *Limebit* \hfill 07/2022 -- 08/2022
@@ -117,7 +125,7 @@ Graphic Design Intern, *liauw konzept und design* \hfill 10/2016 -- 01/2017
 
 # Volunteering and Memberships
 
-Participation in Bayesian Inference Reading Group led by Dr. Will Lowe, *Hertie School* \hfill 01/2023 -- *today*
+Participation in Bayesian Inference Reading Group led by Dr. Will Lowe, *Hertie School* \hfill 01/2023 -- 05/2023
 
 Student Representative, *Hertie School · Master of Data Sciene for Public Policy* \hfill 09/2022 -- *today*
 
