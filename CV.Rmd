@@ -12,7 +12,7 @@ geometry: margin=1in
 
 title: "CV"
 author: "Lukas Warode"
-jobtitle: "Political Science PhD Candidate & Data Researcher | M.Sc. Data Science for Public Policy"
+jobtitle: "Political Science PhD Candidate | M.Sc. Data Science for Public Policy"
 #address: "Invalidenstraße 135 · 10115 Berlin · Germany"
 fontawesome: yes
 email: lukas.warode@gmx.de
@@ -22,7 +22,7 @@ github: lwarode
 twitter: lukas_warode
 #osf: "Enter 5 digit osf string here"
 #phone: "+353 1 408 4800"
-web: lwarode.github.io
+#web: lwarode.github.io
 updated: no
 
 # keywords: R Markdown, academic CV, template
@@ -36,7 +36,7 @@ urlcolor: blue
 
 # Education
 
-*University of Mannheim*, Political Science Track in Doctoral programme in Social Sciences at the Center for Doctoral Studies in Social and Behavioral Sciences (CDSS) \hfill 2023 -- 2026
+*University of Mannheim*, Political Science Track in Doctoral Programme in Social Sciences at the Center for Doctoral Studies in Social and Behavioral Sciences (CDSS) \hfill 2023 -- 2026
 
 *Hertie School*, M.Sc. Data Science for Public Policy (Grade: 1.4) \hfill 2021 -- 2023
 
@@ -106,7 +106,7 @@ Research Assistant, *University of Bremen · SOCIUM* \hfill 03/2018 -- 12/2020
 
 ## **Private Sector**
 
-Data Researcher, *POLITICO Europe* \hfill 07/2023 -- *today*
+Data Researcher, *POLITICO Europe* \hfill 07/2023 -- 05/2024
 
 Data Research Working Student, *POLITICO Europe* \hfill 10/2022 -- 07/2023
 
@@ -182,7 +182,7 @@ Mplus (basics)
 
 - · Data manipulation
 - · Data visualization
-- · Machine Learning methods
+- · Machine Learning & Deep Learning methods
 
 `SQL` (basics)
 
